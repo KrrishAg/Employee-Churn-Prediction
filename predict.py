@@ -6,7 +6,6 @@ import pandas as pd
 model = joblib.load("model/model.pkl")
 
 sample_input = {
-    "Employee ID": 3496,
     "Age": 45,
     "Gender": "Female",
     "Years at Company": 30,
