@@ -2,4 +2,5 @@ Classification problem.
 No null/duplicated values.
 Numerical: Age, Years at Company, Monthly Income, Number of Promotions, Distance from Home, Number of Dependents, Company Tenure
 Categorical: Gender, Job Role, Work-Life Balance, Job Satisfaction, Performance Rating, Overtime, Education Level, Marital Status, Job Level, Company Size, Remote Work, Leadership Opportunities, Innovation Opportunities, Company Reputation, Employee Recognition, Attrition
+Categoricals which have order: Work-Life Balance, Job Satisfaction, Performance Rating, Job Level, Company Size, Company Reputation, Employee Recognition, Education Level
 Data is not imbalanced
